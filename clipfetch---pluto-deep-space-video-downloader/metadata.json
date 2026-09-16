@@ -1,0 +1,6 @@
+{
+  "name": "ClipFetch - Pluto Deep-Space Video Downloader",
+  "description": "Futuristic deep-space social media video downloader. Extract high-speed video and audio streams across platforms.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
